@@ -178,12 +178,12 @@ class SimpleForm extends Component {
                 },
                 {
                     id: "q-suggestion",
-                    message: "If you have any of these symptoms, we would like to suggest that you check with our panel of doctors.",
+                    message: "If you have any of these symptoms, we would like to suggest that you check with our panel doctors.",
                     trigger: "q-suggestion-query",
                 },
                 {
                     id: "q-suggestion-query",
-                    message: "Do you want to make appointment with our panel of doctors?",
+                    message: "Do you want to make appointment with our panel doctors?",
                     trigger: "q-yes-or-no-to-suggestion",
                 },
                 {

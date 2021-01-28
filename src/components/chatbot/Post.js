@@ -30,7 +30,11 @@ class Post extends Component {
 
     render() {
         return (
-            <div>Thank you! Your data was submitted successfully!</div>
+            <div>
+                <p>Thank you! </p>
+                <p>Your data was submitted successfully!</p>
+                <p>Our customer service agent will contact you soon!</p>
+            </div>
         )
     }
     
