@@ -19,6 +19,10 @@ This library seems easy to use. But for a beginner like me who has just learned 
 - install and configure react-simple-chatbot >> cd into the folder you've just created => npm install react-simple-chatbot 
 - install styled-components : a package that will allow us to change the theme of the chatbot => npm install styled-components 
 
+## Link to the app
+
+Check out the app here: http://medical_chatbot.surge.sh/
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
